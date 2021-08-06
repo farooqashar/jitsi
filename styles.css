@@ -70,6 +70,10 @@
     text-align: center;
   }
 
+  .containerCenter {
+    justify-content: center;
+  }
+
   .basic {
       color: white;
   }
@@ -87,7 +91,7 @@
     animation-iteration-count: infinite;
   }
 
-  .subttt {
+  .subtt {
     color: aqua;
     animation-name: subt;
     animation-duration: 1s;
